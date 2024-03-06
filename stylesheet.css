@@ -1,0 +1,216 @@
+head {
+    display: none;
+}
+
+meta {
+    display: none;
+}
+
+link {
+    display: none;
+}
+
+
+head title {
+    display: none;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+title {
+    color: goldenrod;
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    width: 200px;
+    border: 5px solid rgb(250, 142, 0);
+    padding: 0px;
+}
+
+a:hover {
+    color: blue;
+}
+
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.wacky-font {
+    font-family: "Brush Script MT";
+    text-align: center;
+}
+
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.text {
+    text-align: center;
+    font-size: x-large;
+}
+
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+div {
+    width: 300px;
+    text-align: left;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+assignment-id {
+    font-size: x-large;
+    width: 100px;
+    border: 1px solid rgb(0, 0, 0);
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+.wacky-font {
+    font-family: "Brush Script MT";
+    text-align: center;
+}
+
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+div {
+    width: 300px;
+    text-align: left;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div {
+    width: 300px;
+    text-align: left;
+}
+
+div {
+    width: 300px;
+    text-align: left;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    background-color: powderblue;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+
+
+
